@@ -1,9 +1,5 @@
-.header{
+.header {
   display: flex;
   justify-content: space-between;
-  max-width: 1184px;
-  height: 52px;
-margin-top: 28px;
-margin-left: auto;
-margin-right: auto;
+  margin: 0 auto;
 }

@@ -1,5 +1,9 @@
 .header__links{
 display: flex;
 list-style: none;
-min-width: 77px;
+margin: 0;
+padding-top: 18px;
+padding-bottom: 6px;
+padding-left: 0px;
+
 }

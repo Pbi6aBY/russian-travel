@@ -1,4 +1,4 @@
-.intro__list{
+.intro__list {
   display: flex;
   flex-direction: column;
   margin: 0 0;
@@ -7,7 +7,6 @@
   font-style: normal;
   font-size: 12px;
   line-height: 1.5;
-  color: #fff;
   list-style: none;
   padding: 0 0;
 }
