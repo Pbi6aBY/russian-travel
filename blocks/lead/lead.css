@@ -1,8 +1,8 @@
 .lead{
 display: flex;
 flex-direction: column;
-width: 984px;
-height: 1005px;
+max-width: 984px;
+max-height: 1005px;
 margin-top: 56px;
 margin-left: auto;
 margin-right: auto;
