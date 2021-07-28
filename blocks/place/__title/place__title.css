@@ -6,8 +6,5 @@
   text-align: left;
   line-height: 1.06;
   max-width: 460px;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 3;
+
 }

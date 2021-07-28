@@ -7,9 +7,6 @@
   line-height: 1.22;
   text-decoration: underline;
   color: #fff;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 3;
+
 
 }

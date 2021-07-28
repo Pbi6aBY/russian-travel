@@ -1,4 +1,4 @@
-.place__paragraph{
+.place__text_paragraph{
   margin: 0;
   font-family: "Inter";
   font-weight: 400;
@@ -6,8 +6,5 @@
   text-align: left;
   line-height: 1.63;
   color: #fff;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 3;
-  grid-row-end: 5;
+
 }
