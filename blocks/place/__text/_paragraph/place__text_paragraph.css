@@ -1,10 +1,14 @@
-.place__text_paragraph{
-  margin: 0;
+.place__text_paragraph {
+  margin: 0 0 26px;
   font-family: "Inter";
   font-weight: 400;
   font-size: 18px;
   text-align: left;
   line-height: 1.63;
   color: #fff;
+  padding: 0;
+}
 
+.place__text_paragraph:last-child {
+  margin: 0;
 }
