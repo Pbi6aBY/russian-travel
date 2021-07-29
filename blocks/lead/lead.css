@@ -2,9 +2,27 @@
 display: flex;
 flex-direction: column;
 max-width: 984px;
-max-height: 1005px;
 margin-top: 56px;
 margin-left: auto;
 margin-right: auto;
 justify-content: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead{
+    margin-top: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead{
+    margin-top: 48px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead {
+    margin-top: 48px;
+
+  }
 }

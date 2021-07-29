@@ -3,5 +3,6 @@
   background: #2a2c2f;
   color: #fff;
   font-family: "Inter", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 

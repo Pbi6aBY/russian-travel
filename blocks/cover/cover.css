@@ -5,3 +5,29 @@
   height: 740px;
   position: relative;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 1024px;
+    height: 640px;
+    left: -48px;
+
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    width: 768px;
+    height: 480px;
+    left: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover{
+    width: 320px;
+    height: 200px;
+    left: 0;
+
+  }
+}
