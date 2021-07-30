@@ -9,6 +9,12 @@
   color: #fff;
 }
 
-
-
-
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 32px;
+    margin-right: 0;
+    min-height: 24px;
+  }
+}

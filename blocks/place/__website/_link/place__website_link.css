@@ -1,4 +1,4 @@
-.place__website_link{
+.place__website_link {
   margin: 0;
   font-family: "Inter";
   font-weight: 400;
@@ -7,6 +7,4 @@
   line-height: 1.22;
   text-decoration: underline;
   color: #fff;
-
-
 }

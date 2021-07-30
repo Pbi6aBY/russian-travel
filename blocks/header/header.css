@@ -6,12 +6,12 @@
 
 @media screen and (max-width: 768px) {
   .header {
-   margin: 0 24px 0;
+    margin: 0 24px 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .header {
-   margin: 0 16px 0;
+    margin: 0 16px 0;
   }
 }
