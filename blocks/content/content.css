@@ -1,10 +1,11 @@
 .content {
   max-width: 1184px;
+
 }
 
 @media screen and (max-width: 1024px) {
   .content {
-    max-width: 928px;
+    max-width: 1024px;
   }
 }
 

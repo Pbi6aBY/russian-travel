@@ -9,6 +9,14 @@
   line-height: 1.06;
 }
 
+@media screen and (max-width: 550px) {
+  .cover__title {
+    font-size: 45px;
+    line-height: 1.07;
+    max-width: 400px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__title {
     font-size: 32px;

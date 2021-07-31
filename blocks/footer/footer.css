@@ -1,20 +1,20 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 92px 0 0;
+  margin: 92px 48px 24px;
   padding: 0;
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    margin: 88px 24px 0;
+    margin: 88px 24px 24px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 632px) {
   .footer {
     flex-direction: column;
-    margin: 64px auto 0 16px;
+    margin: 64px auto 24px 16px;
     max-width: 186px;
   }
 }

@@ -9,6 +9,28 @@
   max-width: 640px;
 }
 
+@media screen and (max-width: 694px) {
+  .lead__subtitle {
+    max-width: 540px;
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 565px) {
+  .lead__subtitle {
+    max-width: 440px;
+    font-size: 20px;
+    line-height: 1.02;
+  }
+}
+
+@media screen and (max-width: 345px) {
+  .lead__subtitle {
+    max-width: 300px;
+    font-size: 15px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .lead__subtitle {
     padding-top: 16px;
