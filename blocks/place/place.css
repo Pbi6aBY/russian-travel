@@ -29,7 +29,6 @@
 @media screen and (max-width: 600px) {
   .place {
     grid-template-columns: 220px 1fr;
-    grid-column-gap: 28px;
     padding-bottom: 60px;
   }
 }
@@ -37,14 +36,7 @@
 @media screen and (max-width: 500px) {
   .place {
     grid-template-columns: 1fr;
-    grid-column-gap: 28px;
-    padding-bottom: 55px;
-  }
-}
-
-@media screen and (max-width: 455px) {
-  .place {
-    grid-template-columns: 1fr;
     padding-bottom: 50px;
   }
 }
+
