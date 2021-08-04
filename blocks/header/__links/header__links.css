@@ -1,16 +1,8 @@
 .header__links {
-  display: flex;
-  list-style: none;
-  margin: 0;
-  padding-top: 18px;
-  padding-bottom: 6px;
-  padding-left: 0px;
-
+  margin-right: 18px;
+  padding: 0;
 }
 
-@media screen and (max-width: 325px) {
-  .header__links {
-    padding-bottom: 8px;
-    padding-top: 14px;
-  }
+.header__links:last-child {
+  margin-right: 0;
 }
