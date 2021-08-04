@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   .header {
     margin: 16px 16px 0;
   }
