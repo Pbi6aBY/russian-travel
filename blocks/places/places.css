@@ -5,13 +5,15 @@
 
 @media screen and (max-width: 1024px) {
   .places {
+    margin-left: 48px;
+    margin-right: 48px;
     max-width: 928px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places {
-    margin: 88px auto 90px;
+    margin: 88px 24px 90px;
     max-width: 720px;
   }
 }
@@ -25,7 +27,7 @@
 
 @media screen and (max-width: 400px) {
   .places {
-    margin: 64px auto 66px;
+    margin: 64px 0 66px;
     max-width: 320px;
   }
 }

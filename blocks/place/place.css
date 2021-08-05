@@ -33,11 +33,10 @@
   }
 }
 
-
 @media screen and (max-width: 500px) {
   .place {
     grid-template-columns: 1fr;
     padding-bottom: 50px;
-    grid-column-gap: 32px;
+    grid-row-gap: 32px;
   }
 }

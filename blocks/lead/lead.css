@@ -11,12 +11,15 @@
 @media screen and (max-width: 1024px) {
   .lead {
     max-width: 928px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-top: 48px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead {
+    margin: 48px 0 64px;
     max-width: 320px;
-    margin-top: 48px;
   }
 }
