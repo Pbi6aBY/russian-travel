@@ -19,7 +19,7 @@
 @media screen and (max-width: 640px) {
   .lead__title {
     max-width: 400px;
-    font-size: 60px;
+    font-size: 45px;
   }
 }
 
@@ -30,7 +30,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 350px) {
   .lead__title {
     max-width: 288px;
     line-height: 1.1;
